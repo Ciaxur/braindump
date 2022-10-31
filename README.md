@@ -13,7 +13,7 @@ an environment.
 - Smart Recording (`algorithm`, `compression`)
 
 <p align='center'>
-  <img src='homeland_watcher/network_diagram.jpeg'>
+  <img src='homeland_watcher/network_diagram.svg'>
 </p>
 
 # License
