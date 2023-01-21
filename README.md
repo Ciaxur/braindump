@@ -12,8 +12,14 @@ an environment.
 - Cloud Compute (`compute`, `cloud`)
 - Smart Recording (`algorithm`, `compression`)
 
+**Diagram v1**
 <p align='center'>
-  <img src='homeland_watcher/network_diagram.svg'>
+  <img src='homeland_watcher/network_diagram.png'>
+</p>
+
+**Diagram v2**
+<p align='center'>
+  <img src='homeland_watcher/network_diagram_v2.png'>
 </p>
 
 # License
